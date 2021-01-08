@@ -1,8 +1,10 @@
 # Hey 👋, I'm Yash. 
 ## You can find me on the streets of *Dust 2*  <img align="left" height="120px" src="https://upload.wikimedia.org/wikipedia/en/a/a8/Dust_II_radar.png" />
 ## They know me as [Str1k3r]
+
 <br/>
-Hi there, I'm **Yash**, a **Software Engineering student** 🚀 from Bengaluru, India.  Currently, I'm a Full-Stack Engineer 👨🏽‍💼 .
+
+Hi there, I'm *Yash*, a *Software Engineering student* 🚀 from Bengaluru, India.  Currently, I'm a Full-Stack Engineer 👨🏽‍💼 .
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
