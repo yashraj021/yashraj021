@@ -12,7 +12,7 @@ Hi there, I'm *Yash*, a *Software Engineering student* 🚀 from Bengaluru, Indi
 
 - 👨🏽‍💻 I’m currently a Computer Science student working on multiple Full-Stack projects;
 - 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Full-Stack Development, Kubernetes adn Data Science;
+- 🤔 My interests are with Full-Stack Development, Kubernetes and Data Science;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via yash.raj021@gmail.com to reach me.
