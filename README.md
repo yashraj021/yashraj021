@@ -4,7 +4,7 @@
 
 <br/>
 
-Hi there, I'm *Yash*, a *Full-Stack developer* 🚀 from Bengaluru, India.  Currently, I'm a Full-Stack Engineer 👨🏽‍💼 .
+Hi there, I'm *Yash*, a *Full-Stack developer* 🚀 from Bengaluru, India👨🏽‍💼 .
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
